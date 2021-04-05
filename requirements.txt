@@ -1,0 +1,4 @@
+et-xmlfile==1.0.1
+openpyxl==3.0.7
+rpa==1.30.0
+tagui==1.30.0
